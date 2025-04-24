@@ -1,5 +1,8 @@
 # Pensieve PPO
 
+### Ackowledgments 
+This project builds upon Pensieve, an open-source RL-based ABR streaming system developed by godka. We modified the PPO algorithm and extended it to support online retraining and replay strategies.
+
 ### Updates
 
 **Jan. 18, 2025:** We removed the rate-based method and added NetLLM [4].
